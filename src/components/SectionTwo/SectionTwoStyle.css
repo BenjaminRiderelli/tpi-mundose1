@@ -1,0 +1,27 @@
+.section-2{
+    position:relative;
+    background: var(--unnamed-color-f2f4f1) 0% 0% no-repeat padding-box;
+    background: #F2F4F1 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 4rem 5rem;
+}
+.img-casa {
+    position:relative;
+    width: 966px;
+    height: 552px;
+    background: transparent url(../../../public/img/section2-image.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.contenedor-naranja{
+    background-color: #e0752f;
+    position:absolute;
+    right: 0;
+    bottom:0 ;
+    width: 45%;
+    padding:2rem 2rem;    
+    
+}

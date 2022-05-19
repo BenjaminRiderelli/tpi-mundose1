@@ -1,0 +1,19 @@
+.footer{
+    color:#F2F4F1;
+    background-color: #343434;
+    position:relative;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#logo{
+ color:white;
+ margin-right:20px;
+ margin-top:25px;
+ margin-bottom:25px;
+}
+#rights{
+    margin-left:20px;
+    margin-bottom:0;
+}

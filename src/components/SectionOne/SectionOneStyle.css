@@ -1,0 +1,50 @@
+.aventura{
+    
+    margin-top: 144px;
+    margin-bottom: 144px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left:32px solid #E0752F  ;
+    
+    
+  
+}
+
+.rectangulo{
+    top: 912px;
+    left: 0px;
+    width: 32px;
+    height: 384px;
+    background: #E0752F 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+
+h3{
+    text-align: left;
+    font: normal normal 600 39px/45px Poppins;
+    letter-spacing: 0.55px;
+    color: #343434;
+
+}
+.conoce{
+      
+    text-align: left;
+    font: normal normal 600 39px/45px Poppins;
+    letter-spacing: 0.55px;
+    color: #E0752F;
+}
+
+.explorar{
+    margin-top: 100px;
+    left: 299px;
+    width: 768px;
+    height: 197px;
+    text-align: left;
+    font: normal normal normal 16px/28px Roboto;
+    letter-spacing: 0.22px;
+    color: #343434;
+    opacity: 1;
+}

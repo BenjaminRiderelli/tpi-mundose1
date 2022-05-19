@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/Coding/TPI/TPI_V1.4/vagos_leo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vagos_leo"
+	}
+}

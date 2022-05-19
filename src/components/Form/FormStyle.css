@@ -1,0 +1,50 @@
+.formulario-section{
+    padding-top:5rem;
+    background: #F2F4F1 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.campo{
+    display:block;
+    border-bottom: 1px black solid;
+    text-align: start;
+}
+
+.campo .input-text{
+    margin-left:5px;
+    outline: none;
+    border: none;
+    background: #F2F4F1 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: bottom;
+}
+
+.formulario {
+    display:flex;
+    justify-content: center;
+    gap: 15rem;
+}
+.boton-form {
+    margin-right: 5rem;
+    background-color:#e0752f ;
+    color: white;
+    padding: 0.5rem 2rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-radius: 5rem;
+    text-align: center;
+    border: none;
+    width: auto;
+}
+.boton-form-container{
+    margin-top:3rem;
+    margin-bottom: 1rem;
+}
+
+.click{
+
+    color:#e0752f;
+}
+.img-contact{
+    margin-left:5rem;
+}
